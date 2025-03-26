@@ -1,0 +1,218 @@
+[
+    {
+        "tweet_id": "119237",
+        "author_id": "105834",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 06:55:44 +0000 2017",
+        "text": "@AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+        "response_tweet_id": "119236",
+        "in_response_to_tweet_id": ""
+    },
+    {
+        "tweet_id": "119238",
+        "author_id": "ChaseSupport",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 13:25:49 +0000 2017",
+        "text": "@105835 Your business means a lot to us. Please DM your name, zip code and additional details about your concern. ^RR https://t.co/znUu1VJn9r",
+        "response_tweet_id": "",
+        "in_response_to_tweet_id": "119239"
+    },
+    {
+        "tweet_id": "119239",
+        "author_id": "105835",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 13:00:09 +0000 2017",
+        "text": "@76328 I really hope you all change but I'm sure you won't! Because you don't have to!",
+        "response_tweet_id": "119238",
+        "in_response_to_tweet_id": ""
+    },
+    {
+        "tweet_id": "119240",
+        "author_id": "VirginTrains",
+        "inbound": "False",
+        "created_at": "Tue Oct 10 15:16:08 +0000 2017",
+        "text": "@105836 LiveChat is online at the moment - https://t.co/SY94VtU8Kq or contact 03331 031 031 option 1, 4, 3 (Leave a message) to request a call back",
+        "response_tweet_id": "119241",
+        "in_response_to_tweet_id": "119242"
+    },
+    {
+        "tweet_id": "119241",
+        "author_id": "105836",
+        "inbound": "True",
+        "created_at": "Tue Oct 10 15:17:21 +0000 2017",
+        "text": "@VirginTrains see attached error message. I've tried leaving a voicemail several times in the past week https://t.co/NxVZjlYx1k",
+        "response_tweet_id": "119243",
+        "in_response_to_tweet_id": "119240"
+    },
+    {
+        "tweet_id": "119243",
+        "author_id": "VirginTrains",
+        "inbound": "False",
+        "created_at": "Tue Oct 10 15:25:14 +0000 2017",
+        "text": "@105836 Have you tried from another device, Miriam ^MM",
+        "response_tweet_id": "119244",
+        "in_response_to_tweet_id": "119241"
+    },
+    {
+        "tweet_id": "119244",
+        "author_id": "105836",
+        "inbound": "True",
+        "created_at": "Tue Oct 10 15:26:44 +0000 2017",
+        "text": "@VirginTrains yep, I've tried laptop too several times over the past week and again today. I've tried different browsers too",
+        "response_tweet_id": "119245",
+        "in_response_to_tweet_id": "119243"
+    },
+    {
+        "tweet_id": "119245",
+        "author_id": "VirginTrains",
+        "inbound": "False",
+        "created_at": "Tue Oct 10 15:33:22 +0000 2017",
+        "text": "@105836 It's working OK from here, Miriam. Does this link help https://t.co/0m2mpH15eh ? ^MM",
+        "response_tweet_id": "",
+        "in_response_to_tweet_id": "119244"
+    },
+    {
+        "tweet_id": "119242",
+        "author_id": "105836",
+        "inbound": "True",
+        "created_at": "Tue Oct 10 15:09:00 +0000 2017",
+        "text": "@VirginTrains I still haven't heard &amp; the number I'm directed to by phone is a dead end &amp; the live chat doesn't work. Can someone call me?",
+        "response_tweet_id": "119240",
+        "in_response_to_tweet_id": "119246"
+    },
+    {
+        "tweet_id": "119246",
+        "author_id": "VirginTrains",
+        "inbound": "False",
+        "created_at": "Tue Oct 10 10:13:19 +0000 2017",
+        "text": "@105836 That's what we're here for Miriam \ud83d\ude0a  The team should send you an email shortly ^HP",
+        "response_tweet_id": "119242",
+        "in_response_to_tweet_id": "119247"
+    },
+    {
+        "tweet_id": "119248",
+        "author_id": "AppleSupport",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 13:38:29 +0000 2017",
+        "text": "@105837 We can help. Which version of iOS are you on? You can find that in Settings &gt; General &gt; About. Reply in DM. https://t.co/GDrqU22YpT",
+        "response_tweet_id": "",
+        "in_response_to_tweet_id": "119249"
+    },
+    {
+        "tweet_id": "119249",
+        "author_id": "105837",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 07:37:27 +0000 2017",
+        "text": "@105838 @AppleSupport Me too am suffering , hope the can find a solution",
+        "response_tweet_id": "119248",
+        "in_response_to_tweet_id": "119250"
+    },
+    {
+        "tweet_id": "119250",
+        "author_id": "105838",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 05:33:17 +0000 2017",
+        "text": "@AppleSupport hi #apple, I\u2019ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",
+        "response_tweet_id": "119249,119251",
+        "in_response_to_tweet_id": ""
+    },
+    {
+        "tweet_id": "119252",
+        "author_id": "AppleSupport",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 13:40:27 +0000 2017",
+        "text": "@105839 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. https://t.co/GDrqU22YpT",
+        "response_tweet_id": "",
+        "in_response_to_tweet_id": "119253"
+    },
+    {
+        "tweet_id": "119253",
+        "author_id": "105839",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 07:21:34 +0000 2017",
+        "text": "I just updated my phone and suddenly everything takes ages to load wtf @76099 this update sux I hate it fix it bye",
+        "response_tweet_id": "119252",
+        "in_response_to_tweet_id": ""
+    },
+    {
+        "tweet_id": "119254",
+        "author_id": "SpotifyCares",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 13:41:25 +0000 2017",
+        "text": "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY",
+        "response_tweet_id": "119255",
+        "in_response_to_tweet_id": "119256"
+    },
+    {
+        "tweet_id": "119255",
+        "author_id": "105840",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 13:45:59 +0000 2017",
+        "text": "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016) Model SM-T280 Does distance from speaker matter?",
+        "response_tweet_id": "119257",
+        "in_response_to_tweet_id": "119254"
+    },
+    {
+        "tweet_id": "119257",
+        "author_id": "SpotifyCares",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 14:00:48 +0000 2017",
+        "text": "@105840 Thanks. The distance could possibly affect playback. Does logging out &gt; restarting your device &gt; logging back in make a difference? /AY",
+        "response_tweet_id": "119258",
+        "in_response_to_tweet_id": "119255"
+    },
+    {
+        "tweet_id": "119258",
+        "author_id": "105840",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 14:01:58 +0000 2017",
+        "text": "@SpotifyCares No, but I've moved speaker to about 1 metre away and it's not skipping at the mo - it was about 3 or 4 metres away before. Fingers crossed!",
+        "response_tweet_id": "119259",
+        "in_response_to_tweet_id": "119257"
+    },
+    {
+        "tweet_id": "119259",
+        "author_id": "SpotifyCares",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 14:20:00 +0000 2017",
+        "text": "@105840 That's great to hear. If anything comes up, just let us know. We'll carry on helping out \ud83d\ude42 /AY",
+        "response_tweet_id": "119260",
+        "in_response_to_tweet_id": "119258"
+    },
+    {
+        "tweet_id": "119260",
+        "author_id": "105840",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 14:22:05 +0000 2017",
+        "text": "@SpotifyCares Brilliant thanks \ud83d\ude0a",
+        "response_tweet_id": "119261",
+        "in_response_to_tweet_id": "119259"
+    },
+    {
+        "tweet_id": "119261",
+        "author_id": "SpotifyCares",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 14:41:35 +0000 2017",
+        "text": "@105840 You're welcome! If there's anything else we can help with, just give us a shout. We're here for you \ud83d\ude09 /CP",
+        "response_tweet_id": "",
+        "in_response_to_tweet_id": "119260"
+    },
+    {
+        "tweet_id": "119256",
+        "author_id": "105840",
+        "inbound": "True",
+        "created_at": "Wed Oct 11 12:53:29 +0000 2017",
+        "text": "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+        "response_tweet_id": "119254",
+        "in_response_to_tweet_id": ""
+    },
+    {
+        "tweet_id": "119262",
+        "author_id": "AppleSupport",
+        "inbound": "False",
+        "created_at": "Wed Oct 11 13:30:39 +0000 2017",
+        "text": "@105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. https://t.co/GDrqU22YpT",
+        "response_tweet_id": "",
+        "in_response_to_tweet_id": "119263"
+    }
+]
